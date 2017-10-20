@@ -12,7 +12,6 @@ import javafx.stage.Stage;
 
 
 public class Main extends Application {
-    private Fibonacci fibb;
 
 
     private int input;
